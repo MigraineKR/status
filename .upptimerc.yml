@@ -16,7 +16,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: News
+    - title: Post
       href: https://go.migraine.kr/update
     - title: Community
       href: https://go.migraine.kr/community
