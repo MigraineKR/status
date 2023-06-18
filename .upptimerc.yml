@@ -4,7 +4,13 @@ repo: status
 sites:
   - name: update.migraine.kr
     url: https://update.migraine.kr/
-
+  - name: brand.migraine.kr
+    url: https://brand.migraine.kr/
+  - name: gallery.migraine.kr
+    url: https://gallery.migraine.kr/
+  - name: go.migraine.kr
+    url: https://go.migraine.kr/
+    
 status-website:
   cname: status.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
