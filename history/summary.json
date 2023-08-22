@@ -6,15 +6,15 @@
     "slug": "update-migraine-kr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 771,
-    "timeDay": 932,
-    "timeWeek": 777,
-    "timeMonth": 747,
-    "timeYear": 771,
+    "time": 774,
+    "timeDay": 946,
+    "timeWeek": 810,
+    "timeMonth": 762,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2023-08-20": 19
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 289,
-    "timeWeek": 252,
+    "timeDay": 261,
+    "timeWeek": 268,
     "timeMonth": 245,
     "timeYear": 254,
     "dailyMinutesDown": {}
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 245,
-    "timeWeek": 236,
+    "timeDay": 244,
+    "timeWeek": 224,
     "timeMonth": 212,
     "timeYear": 257,
     "dailyMinutesDown": {}
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 390,
-    "timeWeek": 559,
-    "timeMonth": 510,
-    "timeYear": 575,
+    "time": 574,
+    "timeDay": 485,
+    "timeWeek": 539,
+    "timeMonth": 508,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   }
 ]
