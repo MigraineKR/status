@@ -1,7 +1,7 @@
 url: https://go.migraine.kr/
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2023-10-28T23:07:59.484Z
+status: down
+code: 504
+responseTime: 25115
+lastUpdated: 2023-10-29T11:17:00.297Z
 startTime: 2023-06-18T04:40:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
