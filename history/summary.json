@@ -60,17 +60,19 @@
     "url": "https://go.migraine.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.migraine.kr.ico",
     "slug": "go-migraine-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 697,
-    "timeWeek": 555,
-    "timeMonth": 472,
-    "timeYear": 539,
-    "dailyMinutesDown": {}
+    "time": 718,
+    "timeDay": 12906,
+    "timeWeek": 3625,
+    "timeMonth": 1219,
+    "timeYear": 718,
+    "dailyMinutesDown": {
+      "2023-10-29": 0
+    }
   }
 ]
