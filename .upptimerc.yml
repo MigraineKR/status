@@ -8,6 +8,8 @@ sites:
     url: https://brand.migraine.kr/
   - name: gallery.migraine.kr
     url: https://gallery.migraine.kr/
+  - name: monitorss.migraine.kr
+    url: https://monitorss.migraine.kr/
   - name: go.migraine.kr
     url: https://go.migraine.kr/
     
