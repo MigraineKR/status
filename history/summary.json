@@ -60,19 +60,19 @@
     "url": "https://monitorss.migraine.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.migraine.kr.ico",
     "slug": "monitorss-migraine-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 228,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 478,
+    "timeDay": 258,
     "timeWeek": 326,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-12-21": 0
+      "2023-12-21": 12
     }
   },
   {
