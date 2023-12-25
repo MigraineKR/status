@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 757,
     "timeDay": 548,
-    "timeWeek": 802,
+    "timeWeek": 858,
     "timeMonth": 754,
     "timeYear": 757,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 237,
-    "timeWeek": 321,
+    "timeWeek": 333,
     "timeMonth": 276,
     "timeYear": 273,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 108,
-    "timeWeek": 195,
+    "timeWeek": 189,
     "timeMonth": 217,
     "timeYear": 238,
     "dailyMinutesDown": {}
@@ -60,18 +60,20 @@
     "url": "https://monitorss.migraine.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.migraine.kr.ico",
     "slug": "monitorss-migraine-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 248,
-    "timeWeek": 313,
-    "timeMonth": 447,
-    "timeYear": 447,
-    "dailyMinutesDown": {}
+    "time": 441,
+    "timeDay": 294,
+    "timeWeek": 322,
+    "timeMonth": 441,
+    "timeYear": 441,
+    "dailyMinutesDown": {
+      "2023-12-25": 0
+    }
   },
   {
     "name": "go.migraine.kr",
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 639,
     "timeDay": 542,
-    "timeWeek": 402,
+    "timeWeek": 416,
     "timeMonth": 418,
     "timeYear": 639,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 349,
-    "timeWeek": 418,
+    "timeWeek": 389,
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {}
