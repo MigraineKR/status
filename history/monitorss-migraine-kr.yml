@@ -1,7 +1,7 @@
 url: https://monitorss.migraine.kr/
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2024-04-11T23:10:44.807Z
+status: down
+code: 503
+responseTime: 427
+lastUpdated: 2024-04-12T17:42:44.408Z
 startTime: 2023-12-12T09:44:06.947Z
 generator: Upptime <https://github.com/upptime/upptime>
