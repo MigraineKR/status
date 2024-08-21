@@ -20,11 +20,19 @@ status-website:
   introTitle: "**Status** for Migraine Care"
   introMessage: 편두통케어 웹모니터
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Post
-      href: https://go.migraine.kr/update
+    - title: Website
+      href: https://www.migraine.kr
+    - title: Update
+      href: https://go.migraine.kr/Update
+    - title: Podcast
+      href: https://go.migraine.kr/podcast
+    - title: YouTube
+      href: https://www.youtube.com/@MigraineKR
+    - title: Twitter
+      href: https://twitter.com/MigraineKR
+    - title: Instagram
+      href: https://www.instagram.com/MigraineKR
+    - title: Facebook
+      href: https://www.facebook.com/MigraineKR
     - title: Community
       href: https://go.migraine.kr/community
