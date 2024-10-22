@@ -61,10 +61,10 @@
     "url": "https://go.migraine.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.migraine.kr.ico",
     "slug": "go-migraine-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
@@ -72,16 +72,18 @@
     "timeWeek": 454,
     "timeMonth": 587,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "share.migraine.kr",
     "url": "https://share.migraine.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/share.migraine.kr.ico",
     "slug": "share-migraine-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,6 +92,8 @@
     "timeWeek": 519,
     "timeMonth": 562,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
